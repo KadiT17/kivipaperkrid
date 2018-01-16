@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">kivipaperkäärid</string>
+    <string name="Game">Start</string>
+    <string name="paper">paper</string>
+    <string name="rock">rock</string>
+    <string name="scissors">scissors</string>
+    <string name="score">Score</string>
+    <string name="end">end</string>
+    <string name="cpu" />
+</resources>
